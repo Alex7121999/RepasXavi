@@ -281,7 +281,6 @@ function comprovarResultat() {
 
 //aqui es planta després de RETURN
 
-
 function comprovarMatricula() {
     // Demana a l'usuari que introdueixi la matrícula
     let matricula = prompt("Introdueix la matrícula (format 1234-ABC)");
